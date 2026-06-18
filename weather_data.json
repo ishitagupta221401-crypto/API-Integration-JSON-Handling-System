@@ -1,0 +1,42 @@
+[
+    {
+        "city": "Delhi",
+        "country": "India",
+        "temperature_C": 38.6,
+        "wind_speed_kmh": 11.0,
+        "weather_code": 0,
+        "is_day": true
+    },
+    {
+        "city": "London",
+        "country": "United Kingdom",
+        "temperature_C": 24.6,
+        "wind_speed_kmh": 11.9,
+        "weather_code": 1,
+        "is_day": true
+    },
+    {
+        "city": "New York",
+        "country": "United States",
+        "temperature_C": 21.6,
+        "wind_speed_kmh": 17.5,
+        "weather_code": 3,
+        "is_day": true
+    },
+    {
+        "city": "Tokyo",
+        "country": "Japan",
+        "temperature_C": 22.2,
+        "wind_speed_kmh": 2.1,
+        "weather_code": 1,
+        "is_day": false
+    },
+    {
+        "city": "Sydney",
+        "country": "Australia",
+        "temperature_C": 17.2,
+        "wind_speed_kmh": 19.2,
+        "weather_code": 3,
+        "is_day": false
+    }
+]

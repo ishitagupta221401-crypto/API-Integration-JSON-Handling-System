@@ -1,0 +1,6 @@
+city,country,temperature_C,wind_speed_kmh,weather_code,is_day
+Delhi,India,38.6,11.0,0,True
+London,United Kingdom,24.6,11.9,1,True
+New York,United States,21.6,17.5,3,True
+Tokyo,Japan,22.2,2.1,1,False
+Sydney,Australia,17.2,19.2,3,False
